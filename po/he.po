@@ -248,7 +248,7 @@ msgid "Erev Simchat Torah"
 msgstr "עֶרֶב שִׂמְחַת תּוֹרָה"
 
 msgid "Erev Sukkot"
-msgstr "עֶרֶב סוּכּוֹת"
+msgstr "עֶרֶב סֻכּוֹת"
 
 msgid "Erev Tish'a B'Av"
 msgstr "עֶרֶב תִּשְׁעָה בְּאָב"
@@ -299,7 +299,7 @@ msgid "Pesach VIII"
 msgstr "פֶּסַח ח׳"
 
 msgid "Pesach Shabbat Chol ha-Moed"
-msgstr "פֶּסַח שַׁבָּת חוֹל הַמּוֹעֵד"
+msgstr "שַׁבָּת חוֹל הַמּוֹעֵד פֶּסַח"
 
 msgid "Purim"
 msgstr "פּוּרִים"
@@ -368,34 +368,34 @@ msgid "Simchat Torah"
 msgstr "שִׂמְחַת תּוֹרָה"
 
 msgid "Sukkot"
-msgstr "סוּכּוֹת"
+msgstr "סֻכּוֹת"
 
 msgid "Sukkot I"
-msgstr "סוּכּוֹת א׳"
+msgstr "סֻכּוֹת א׳"
 
 msgid "Sukkot II"
-msgstr "סוּכּוֹת ב׳"
+msgstr "סֻכּוֹת ב׳"
 
 msgid "Sukkot II (CH''M)"
-msgstr "סוּכּוֹת ב׳ (חוה״מ)"
+msgstr "סֻכּוֹת ב׳ (חוה״מ)"
 
 msgid "Sukkot III (CH''M)"
-msgstr "סוּכּוֹת ג׳ (חוה״מ)"
+msgstr "סֻכּוֹת ג׳ (חוה״מ)"
 
 msgid "Sukkot IV (CH''M)"
-msgstr "סוּכּוֹת ד׳ (חוה״מ)"
+msgstr "סֻכּוֹת ד׳ (חוה״מ)"
 
 msgid "Sukkot V (CH''M)"
-msgstr "סוּכּוֹת ה׳ (חוה״מ)"
+msgstr "סֻכּוֹת ה׳ (חוה״מ)"
 
 msgid "Sukkot VI (CH''M)"
-msgstr "סוּכּוֹת ו׳ (חוה״מ)"
+msgstr "סֻכּוֹת ו׳ (חוה״מ)"
 
 msgid "Sukkot VII (Hoshana Raba)"
-msgstr "סוּכּוֹת ז׳ (הוֹשַׁעְנָא רַבָּה)"
+msgstr "סֻכּוֹת ז׳ (הוֹשַׁעְנָא רַבָּה)"
 
 msgid "Sukkot Shabbat Chol ha-Moed"
-msgstr "סוּכּוֹת שַׁבָּת חוֹל הַמּוֹעֵד"
+msgstr "שַׁבָּת חוֹל הַמּוֹעֵד סֻכּוֹת"
 
 msgid "Ta'anit Bechorot"
 msgstr "תַּעֲנִית בְּכוֹרוֹת"
@@ -537,7 +537,7 @@ msgid "Yom Kippur Katan"
 msgstr "יוֹם כִּפּוּר קָטָן"
 
 msgid "Yizkor"
-msgstr "יִזְכּוֹר"
+msgstr "יִזְכֹּר"
 
 # modern IL holidays
 msgid "Family Day"
@@ -550,13 +550,13 @@ msgid "Jabotinsky Day"
 msgstr "יוֹם זַ׳בּוֹטִינְסְקִי"
 
 msgid "Herzl Day"
-msgstr "יוֹם הֵרְצְל"
+msgstr "יוֹם הֶרְצְל"
 
 msgid "Ben-Gurion Day"
 msgstr "יוֹם בן־גוריון"
 
 msgid "Hebrew Language Day"
-msgstr "יוֹם הַשָׂפָה הַעִברִית"
+msgstr "יוֹם הַשָּׂפָה הָעִבְרִית"
 
 msgid "Birkat Hachamah"
 msgstr "בִּרְכַּת הַחַמָּה"
@@ -571,7 +571,7 @@ msgid "Chag HaBanot"
 msgstr "חַג הַבָּנוֹת"
 
 msgid "Molad"
-msgstr "מוֹלָד הָלְּבָנָה"
+msgstr "מוֹלַד הָלְּבָנָה"
 
 msgid "chalakim"
 msgstr "חֲלָקִים"
